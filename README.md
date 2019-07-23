@@ -18,10 +18,11 @@
 解决办法：在边界上变换时，加一个判断条件，如果变换之后方块超出边界，则整体向中间移动即可。
 
 ### 项目截图
-<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_1.png" width="100%" height="100%" /></center>
-<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_2.png" width="100%" height="100%" /></center>
-<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_3.png" width="100%" height="100%" /></center>
-<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_4.png" width="100%" height="100%" /></center>
+<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_1.png" width="60%" height="60%" /></center>
+<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_2.png" width="60%" height="60%" /></center>
+<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_3.png" width="60%" height="60%" /></center>
+<center><img src="https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_4.png" width="60%" height="60%" /></center>
+
 ![tetris_1](https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_1.png)
 ![tetris_2](https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_2.png)
 ![tetris_3](https://raw.githubusercontent.com/debugxw/tetris/master/image/tetris_3.png)
